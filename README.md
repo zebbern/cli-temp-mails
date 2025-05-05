@@ -1,4 +1,4 @@
-# TempMail Watcher
+<h2 align="center">TempMail Watcher</h2> 
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-A professional CLI utility for managing temporary email inboxes in real-time. Polls your chosen service and displays incoming messages with rich formatting.
+> A professional CLI utility for managing temporary email inboxes in real-time. Polls your chosen service and displays incoming messages with rich formatting.
 
 ![temp watcher](https://github.com/user-attachments/assets/c016d682-ede9-4619-853a-3ed90df97cae)
 
